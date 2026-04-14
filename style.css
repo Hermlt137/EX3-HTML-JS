@@ -1,0 +1,37 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif; [cite: 1614]
+    background-color: #f0f0f0;
+    margin: 0;
+    display: flex; [cite: 582]
+    justify-content: center; [cite: 639]
+    align-items: center; [cite: 687]
+    min-height: 100vh;
+}
+
+#game-container {
+    text-align: center; [cite: 1497]
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px; 
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1); 
+}
+
+
+#word-image {
+    margin: 20px auto 0; 
+    display: block; 
+    max-width: 100%; 
+    height: auto;
+    border: 2px solid #ccc;
+}
+
+
+button:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
