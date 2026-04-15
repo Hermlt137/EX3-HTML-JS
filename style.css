@@ -4,17 +4,17 @@
 }
 
 body {
-    font-family: Arial, sans-serif; [cite: 1614]
+    font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     margin: 0;
-    display: flex; [cite: 582]
-    justify-content: center; [cite: 639]
-    align-items: center; [cite: 687]
+    display: flex;
+    justify-content: center;
+    align-items: center;
     min-height: 100vh;
 }
 
 #game-container {
-    text-align: center; [cite: 1497]
+    text-align: center;
     background-color: white;
     padding: 30px;
     border-radius: 10px; 
